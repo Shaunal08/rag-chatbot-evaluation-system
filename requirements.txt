@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+chromadb
+sentence-transformers
+tqdm
+pdfplumber
+pypdf
+requests
+httpx
+tiktoken
+orjson
+streamlit
+sqlite-utils
